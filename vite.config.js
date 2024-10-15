@@ -9,7 +9,7 @@ const __dirname = dirname(__filename);
 
 
 export default defineConfig({
-  base: "/simple-interest-calculator/",
+  base: "/SI-Calculator-React/",
   plugins: [react()],
   resolve: {
     alias: {
