@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-    background: url("/home/jtd/Desktop/react-simple-interest-Calci/simple-interest-calculator/assets/spibg.jpg") no-repeat center fixed;
+    background: url("/home/jtd/Desktop/react-simple-interest-Calci/simple-interest-calculator/public/sicbg.jpg") no-repeat center fixed;
     background-size: cover;
 }
 article {
